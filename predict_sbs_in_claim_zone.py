@@ -71,7 +71,7 @@ with open(your_file_path, 'r') as f:  #use your path for input 'file'
             
             
          
-        theory_dic[key]=len(TH)
+        theory_dic[key]=TH
         print("ttttTH:", TH) 
         #print(theory_dic)
     

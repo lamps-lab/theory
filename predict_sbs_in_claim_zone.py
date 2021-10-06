@@ -22,8 +22,8 @@ model = SequenceTagger.load('resources/taggers/example-ner/final-model.pt')
 
 
 
-with open(r"/data/xwei/sbs_flair/sbs_sentences.json", 'r') as f:
-#with open(your_file_path, 'r') as f:  #use your path for input 'file'
+#with open(r"/data/xwei/sbs_flair/sbs_sentences.json", 'r') as f:
+with open(your_file_path, 'r') as f:  #use your path for input 'file'
     
     data = [json.loads(line) for line in f]
     data_dict = data[0]

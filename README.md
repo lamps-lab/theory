@@ -1,7 +1,7 @@
 
 Step 1:
 Use "load_json_sbs_find_claim_zone.py" to create the "sbs_sentences.json" file.  
-It contains the sentences in each claim zone.
+It contains the sentences in each claim zone. This is input for step2.
 
 Step 2:
 USe "predict_sbs_in_claim_zone.py" to find the theory entities in the claim zone.

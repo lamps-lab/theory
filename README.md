@@ -19,7 +19,7 @@ pip install flair
   
   
 ****************************************************************************************************************************
-
+Currently not use simpletransformer
 
 "simple_transformer_predict_paper.py" is used to find theory entities in papers.  
 There are two parts, the first part is to segment a paper into sentences and the second part is to find the theory entities in each sentence. 

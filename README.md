@@ -7,11 +7,13 @@ Step 2:
 USe "predict_sbs_in_claim_zone.py" to find the theory entities in the claim zone.
 
 Need to create an virtual environment 'flair' with the following commands:
+conda create -n flair python=3.6
+conda activate flair
+pip install flair
 
 
 
-
-
+****************************************************************************************************************************
 
 
 "simple_transformer_predict_paper.py" is used to find theory entities in papers.  

@@ -15,7 +15,7 @@ conda activate flair
 pip install flair  
 
 
-
+The model file folder 'resources' used in this script is in GOOGLE Drive. Need to download it and put in the same directory.
   
   
 ****************************************************************************************************************************

@@ -6,10 +6,14 @@ It contains the sentences in each claim zone.
 Step 2:
 USe "predict_sbs_in_claim_zone.py" to find the theory entities in the claim zone.
 
-Need to create an virtual environment 'flair' with the following commands:
-conda create -n flair python=3.6
-conda activate flair
-pip install flair
+Need to create an virtual environment 'flair' with the following commands:  
+
+conda create -n flair python=3.6  
+
+conda activate flair  
+
+pip install flair  
+
 
 
   
